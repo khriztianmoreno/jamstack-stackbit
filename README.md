@@ -6,6 +6,9 @@ Stackbit Azimuth Theme original README is located [here](./README.theme.md).
 
 The content of this site is managed by DatoCMS.
 
+# Live Demo
+[Website](https://jamstack-stackbit-46faa.netlify.app/)
+
 # Running Your Site Locally
 
 1. Install [Node.js and npm](https://nodejs.org/en/)
